@@ -135,7 +135,9 @@
         "matlab": { "path": "./icons/matlab.svg" },
         "simulink": { "path": "./icons/simulink.svg" },
         "graphql": { "path": "./icons/graphql.svg" },
-        "looker": { "path": "./icons/looker.svg" }
+        "looker": { "path": "./icons/looker.svg" },
+        "solidity": { "path": "./icons/solidity.svg" },
+        "exe": { "path": "./icons/exe.svg" }
       },
 
       "file_suffixes": {
@@ -254,7 +256,12 @@
         "mdl": "simulink",
         "graphql": "graphql",
         "gql": "graphql",
-        "lkml": "looker"
+        "lkml": "looker",
+        "sol": "solidity",
+        "exe": "exe",
+        "msi": "exe",
+        "properties": "settings",
+        "geojson": "json"
       },
 
       "file_stems": {
@@ -386,7 +393,6 @@
         "svg": { "path": "./icons/svg.svg" },
         "zip": { "path": "./icons/zip.svg" },
         "lock": { "path": "./icons/lock.svg" },
-        "settings": { "path": "./icons/settings.svg" },
         "log": { "path": "./icons/log.svg" },
         "hpp": { "path": "./icons/hpp.svg" },
         "h": { "path": "./icons/h.svg" },
@@ -475,6 +481,7 @@
         "sass": "sass",
         "less": "less",
         "json": "json",
+        "geojson": "json",
         "py": "python",
         "pyc": "python",
         "rs": "rust",

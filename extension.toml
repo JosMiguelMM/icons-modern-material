@@ -1,6 +1,6 @@
 id = "icons-modern-material"
 name = "Icons modern material"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 authors = ["JosMiguelMM <miguelmendezm0802@gmail.com>"]
 description = "A collection of icons for Zed"
