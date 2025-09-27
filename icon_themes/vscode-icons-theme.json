@@ -137,7 +137,9 @@
         "graphql": { "path": "./icons/graphql.svg" },
         "looker": { "path": "./icons/looker.svg" },
         "solidity": { "path": "./icons/solidity.svg" },
-        "exe": { "path": "./icons/exe.svg" }
+        "exe": { "path": "./icons/exe.svg" },
+        "powerpoint": { "path": "./icons/powerpoint.svg" },
+        "file_type_xcode.svg": { "path": "./icons/file_type_xcode.svg" }
       },
 
       "file_suffixes": {
@@ -261,7 +263,13 @@
         "exe": "exe",
         "msi": "exe",
         "properties": "settings",
-        "geojson": "json"
+        "geojson": "json",
+        "pptx": "powerpoint",
+        "ppt": "powerpoint",
+        "xcconfig": "file_type_xcode.svg",
+        "plist": "file_type_xcode.svg",
+        "pbxproj": "file_type_xcode.svg",
+        "xcworkspacedata": "file_type_xcode.svg"
       },
 
       "file_stems": {
@@ -327,7 +335,15 @@
         "config.yml": "circleci",
         "firebase.json": "firebase",
         "bun.lock": "bun",
-        "bunfig.toml": "bun"
+        "bunfig.toml": "bun",
+        ".env.local": "tune",
+        ".env.development": "tune",
+        ".env.production": "tune",
+        ".env.prod": "tune",
+        ".env.dev": "tune",
+        ".env.staging": "tune",
+        ".env.test": "tune",
+        ".env.example": "tune"
       }
     },
     {
@@ -645,7 +661,15 @@
         "config.yml": "circleci",
         "firebase.json": "firebase",
         "bun.lock": "bun",
-        "bunfig.toml": "bun"
+        "bunfig.toml": "bun",
+        ".env.local": "tune",
+        ".env.development": "tune",
+        ".env.production": "tune",
+        ".env.prod": "tune",
+        ".env.dev": "tune",
+        ".env.staging": "tune",
+        ".env.test": "tune",
+        ".env.example": "tune"
       }
     }
   ]
