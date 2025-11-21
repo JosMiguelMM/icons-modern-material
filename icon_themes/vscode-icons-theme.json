@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
+  "$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
   "name": "Zed Icons",
   "author": "JosMiguelMM",
   "themes": [
@@ -10,14 +10,1023 @@
         "collapsed": "./icons/folder-default.svg",
         "expanded": "./icons/folder-default-open.svg"
       },
-      "directory_name_icons": {
-        "src_folder_icon": {
+      "named_directory_icons": {
+        "admin": {
+          "collapsed": "./icons/folder-admin.svg",
+          "expanded": "./icons/folder-admin-open.svg"
+        },
+        "android": {
+          "collapsed": "./icons/folder-android.svg",
+          "expanded": "./icons/folder-android-open.svg"
+        },
+        "angular": {
+          "collapsed": "./icons/folder-angular.svg",
+          "expanded": "./icons/folder-angular-open.svg"
+        },
+        "animation": {
+          "collapsed": "./icons/folder-animation.svg",
+          "expanded": "./icons/folder-animation-open.svg"
+        },
+        "ansible": {
+          "collapsed": "./icons/folder-ansible.svg",
+          "expanded": "./icons/folder-ansible-open.svg"
+        },
+        "api": {
+          "collapsed": "./icons/folder-api.svg",
+          "expanded": "./icons/folder-api-open.svg"
+        },
+        "soap": {
+          "collapsed": "./icons/folder-api.svg",
+          "expanded": "./icons/folder-api-open.svg"
+        },
+        "apollo": {
+          "collapsed": "./icons/folder-apollo.svg",
+          "expanded": "./icons/folder-apollo-open.svg"
+        },
+        "app": {
+          "collapsed": "./icons/folder-app.svg",
+          "expanded": "./icons/folder-app-open.svg"
+        },
+        "archive": {
+          "collapsed": "./icons/folder-archive.svg",
+          "expanded": "./icons/folder-archive-open.svg"
+        },
+        "astro": {
+          "collapsed": "./icons/folder-astro.svg",
+          "expanded": "./icons/folder-astro-open.svg"
+        },
+        "attachment": {
+          "collapsed": "./icons/folder-attachment.svg",
+          "expanded": "./icons/folder-attachment-open.svg"
+        },
+        "audio": {
+          "collapsed": "./icons/folder-audio.svg",
+          "expanded": "./icons/folder-audio-open.svg"
+        },
+        "aurelia": {
+          "collapsed": "./icons/folder-aurelia.svg",
+          "expanded": "./icons/folder-aurelia-open.svg"
+        },
+        "aws": {
+          "collapsed": "./icons/folder-aws.svg",
+          "expanded": "./icons/folder-aws-open.svg"
+        },
+        "azure-pipelines": {
+          "collapsed": "./icons/folder-azure-pipelines.svg",
+          "expanded": "./icons/folder-azure-pipelines-open.svg"
+        },
+        "backup": {
+          "collapsed": "./icons/folder-backup.svg",
+          "expanded": "./icons/folder-backup-open.svg"
+        },
+        "base": {
+          "collapsed": "./icons/folder-base.svg",
+          "expanded": "./icons/folder-base-open.svg"
+        },
+        "batch": {
+          "collapsed": "./icons/folder-batch.svg",
+          "expanded": "./icons/folder-batch-open.svg"
+        },
+        "benchmark": {
+          "collapsed": "./icons/folder-benchmark.svg",
+          "expanded": "./icons/folder-benchmark-open.svg"
+        },
+        "bibliography": {
+          "collapsed": "./icons/folder-bibliography.svg",
+          "expanded": "./icons/folder-bibliography-open.svg"
+        },
+        "bicep": {
+          "collapsed": "./icons/folder-bicep.svg",
+          "expanded": "./icons/folder-bicep-open.svg"
+        },
+        "blender": {
+          "collapsed": "./icons/folder-blender.svg",
+          "expanded": "./icons/folder-blender-open.svg"
+        },
+        "bloc": {
+          "collapsed": "./icons/folder-bloc.svg",
+          "expanded": "./icons/folder-bloc-open.svg"
+        },
+        "bower": {
+          "collapsed": "./icons/folder-bower.svg",
+          "expanded": "./icons/folder-bower-open.svg"
+        },
+        "buildkite": {
+          "collapsed": "./icons/folder-buildkite.svg",
+          "expanded": "./icons/folder-buildkite-open.svg"
+        },
+        "cart": {
+          "collapsed": "./icons/folder-cart.svg",
+          "expanded": "./icons/folder-cart-open.svg"
+        },
+        "changesets": {
+          "collapsed": "./icons/folder-changesets.svg",
+          "expanded": "./icons/folder-changesets-open.svg"
+        },
+        "ci": {
+          "collapsed": "./icons/folder-ci.svg",
+          "expanded": "./icons/folder-ci-open.svg"
+        },
+        "circleci": {
+          "collapsed": "./icons/folder-circleci.svg",
+          "expanded": "./icons/folder-circleci-open.svg"
+        },
+        "class": {
+          "collapsed": "./icons/folder-class.svg",
+          "expanded": "./icons/folder-class-open.svg"
+        },
+        "client": {
+          "collapsed": "./icons/folder-client.svg",
+          "expanded": "./icons/folder-client-open.svg"
+        },
+        "cline": {
+          "collapsed": "./icons/folder-cline.svg",
+          "expanded": "./icons/folder-cline-open.svg"
+        },
+        "cloudflare": {
+          "collapsed": "./icons/folder-cloudflare.svg",
+          "expanded": "./icons/folder-cloudflare-open.svg"
+        },
+        "cloud-functions": {
+          "collapsed": "./icons/folder-cloud-functions.svg",
+          "expanded": "./icons/folder-cloud-functions-open.svg"
+        },
+        "cluster": {
+          "collapsed": "./icons/folder-cluster.svg",
+          "expanded": "./icons/folder-cluster-open.svg"
+        },
+        "cobol": {
+          "collapsed": "./icons/folder-cobol.svg",
+          "expanded": "./icons/folder-cobol-open.svg"
+        },
+        "command": {
+          "collapsed": "./icons/folder-command.svg",
+          "expanded": "./icons/folder-command-open.svg"
+        },
+        "components": {
+          "collapsed": "./icons/folder-components.svg",
+          "expanded": "./icons/folder-components-open.svg"
+        },
+        "config": {
+          "collapsed": "./icons/folder-config.svg",
+          "expanded": "./icons/folder-config-open.svg"
+        },
+        ".settings": {
+          "collapsed": "./icons/folder-config.svg",
+          "expanded": "./icons/folder-config-open.svg"
+        },
+        "settings": {
+          "collapsed": "./icons/folder-config.svg",
+          "expanded": "./icons/folder-config-open.svg"
+        },
+        "connection": {
+          "collapsed": "./icons/folder-connection.svg",
+          "expanded": "./icons/folder-connection-open.svg"
+        },
+        "console": {
+          "collapsed": "./icons/folder-console.svg",
+          "expanded": "./icons/folder-console-open.svg"
+        },
+        "constant": {
+          "collapsed": "./icons/folder-constant.svg",
+          "expanded": "./icons/folder-constant-open.svg"
+        },
+        "container": {
+          "collapsed": "./icons/folder-container.svg",
+          "expanded": "./icons/folder-container-open.svg"
+        },
+        "content": {
+          "collapsed": "./icons/folder-content.svg",
+          "expanded": "./icons/folder-content-open.svg"
+        },
+        "context": {
+          "collapsed": "./icons/folder-context.svg",
+          "expanded": "./icons/folder-context-open.svg"
+        },
+        "contract": {
+          "collapsed": "./icons/folder-contract.svg",
+          "expanded": "./icons/folder-contract-open.svg"
+        },
+        "wsdl": {
+          "collapsed": "./icons/folder-contract.svg",
+          "expanded": "./icons/folder-contract-open.svg"
+        },
+        "controller": {
+          "collapsed": "./icons/folder-controller.svg",
+          "expanded": "./icons/folder-controller-open.svg"
+        },
+        "core": {
+          "collapsed": "./icons/folder-core.svg",
+          "expanded": "./icons/folder-core-open.svg"
+        },
+        "coverage": {
+          "collapsed": "./icons/folder-coverage.svg",
+          "expanded": "./icons/folder-coverage-open.svg"
+        },
+        "css": {
+          "collapsed": "./icons/folder-css.svg",
+          "expanded": "./icons/folder-css-open.svg"
+        },
+        "custom": {
+          "collapsed": "./icons/folder-custom.svg",
+          "expanded": "./icons/folder-custom-open.svg"
+        },
+        "cypress": {
+          "collapsed": "./icons/folder-cypress.svg",
+          "expanded": "./icons/folder-cypress-open.svg"
+        },
+        "dart": {
+          "collapsed": "./icons/folder-dart.svg",
+          "expanded": "./icons/folder-dart-open.svg"
+        },
+        "database": {
+          "collapsed": "./icons/folder-database.svg",
+          "expanded": "./icons/folder-database-open.svg"
+        },
+        "debug": {
+          "collapsed": "./icons/folder-debug.svg",
+          "expanded": "./icons/folder-debug-open.svg"
+        },
+        "decorators": {
+          "collapsed": "./icons/folder-decorators.svg",
+          "expanded": "./icons/folder-decorators-open.svg"
+        },
+        "delta": {
+          "collapsed": "./icons/folder-delta.svg",
+          "expanded": "./icons/folder-delta-open.svg"
+        },
+        "desktop": {
+          "collapsed": "./icons/folder-desktop.svg",
+          "expanded": "./icons/folder-desktop-open.svg"
+        },
+        "directive": {
+          "collapsed": "./icons/folder-directive.svg",
+          "expanded": "./icons/folder-directive-open.svg"
+        },
+        "dist": {
+          "collapsed": "./icons/folder-dist.svg",
+          "expanded": "./icons/folder-dist-open.svg"
+        },
+        "bin": {
+          "collapsed": "./icons/folder-dist.svg",
+          "expanded": "./icons/folder-dist-open.svg"
+        },
+        "build": {
+          "collapsed": "./icons/folder-dist.svg",
+          "expanded": "./icons/folder-dist-open.svg"
+        },
+        "docker": {
+          "collapsed": "./icons/folder-docker.svg",
+          "expanded": "./icons/folder-docker-open.svg"
+        },
+        "docs": {
+          "collapsed": "./icons/folder-docs.svg",
+          "expanded": "./icons/folder-docs-open.svg"
+        },
+        "download": {
+          "collapsed": "./icons/folder-download.svg",
+          "expanded": "./icons/folder-download-open.svg"
+        },
+        "drizzle": {
+          "collapsed": "./icons/folder-drizzle.svg",
+          "expanded": "./icons/folder-drizzle-open.svg"
+        },
+        "dump": {
+          "collapsed": "./icons/folder-dump.svg",
+          "expanded": "./icons/folder-dump-open.svg"
+        },
+        "element": {
+          "collapsed": "./icons/folder-element.svg",
+          "expanded": "./icons/folder-element-open.svg"
+        },
+        "enum": {
+          "collapsed": "./icons/folder-enum.svg",
+          "expanded": "./icons/folder-enum-open.svg"
+        },
+        "environment": {
+          "collapsed": "./icons/folder-environment.svg",
+          "expanded": "./icons/folder-environment-open.svg"
+        },
+        "error": {
+          "collapsed": "./icons/folder-error.svg",
+          "expanded": "./icons/folder-error-open.svg"
+        },
+        "event": {
+          "collapsed": "./icons/folder-event.svg",
+          "expanded": "./icons/folder-event-open.svg"
+        },
+        "examples": {
+          "collapsed": "./icons/folder-examples.svg",
+          "expanded": "./icons/folder-examples-open.svg"
+        },
+        "expo": {
+          "collapsed": "./icons/folder-expo.svg",
+          "expanded": "./icons/folder-expo-open.svg"
+        },
+        "export": {
+          "collapsed": "./icons/folder-export.svg",
+          "expanded": "./icons/folder-export-open.svg"
+        },
+        "fastlane": {
+          "collapsed": "./icons/folder-fastlane.svg",
+          "expanded": "./icons/folder-fastlane-open.svg"
+        },
+        "favicon": {
+          "collapsed": "./icons/folder-favicon.svg",
+          "expanded": "./icons/folder-favicon-open.svg"
+        },
+        "firebase": {
+          "collapsed": "./icons/folder-firebase.svg",
+          "expanded": "./icons/folder-firebase-open.svg"
+        },
+        "firestore": {
+          "collapsed": "./icons/folder-firestore.svg",
+          "expanded": "./icons/folder-firestore-open.svg"
+        },
+        "flow": {
+          "collapsed": "./icons/folder-flow.svg",
+          "expanded": "./icons/folder-flow-open.svg"
+        },
+        "flutter": {
+          "collapsed": "./icons/folder-flutter.svg",
+          "expanded": "./icons/folder-flutter-open.svg"
+        },
+        "font": {
+          "collapsed": "./icons/folder-font.svg",
+          "expanded": "./icons/folder-font-open.svg"
+        },
+        "forgejo": {
+          "collapsed": "./icons/folder-forgejo.svg",
+          "expanded": "./icons/folder-forgejo-open.svg"
+        },
+        "functions": {
+          "collapsed": "./icons/folder-functions.svg",
+          "expanded": "./icons/folder-functions-open.svg"
+        },
+        "gamemaker": {
+          "collapsed": "./icons/folder-gamemaker.svg",
+          "expanded": "./icons/folder-gamemaker-open.svg"
+        },
+        "generator": {
+          "collapsed": "./icons/folder-generator.svg",
+          "expanded": "./icons/folder-generator-open.svg"
+        },
+        "gh-workflows": {
+          "collapsed": "./icons/folder-gh-workflows.svg",
+          "expanded": "./icons/folder-gh-workflows-open.svg"
+        },
+        "gitea": {
+          "collapsed": "./icons/folder-gitea.svg",
+          "expanded": "./icons/folder-gitea-open.svg"
+        },
+        "github": {
+          "collapsed": "./icons/folder-github.svg",
+          "expanded": "./icons/folder-github-open.svg"
+        },
+        ".github": {
+          "collapsed": "./icons/folder-github.svg",
+          "expanded": "./icons/folder-github-open.svg"
+        },
+        "gitlab": {
+          "collapsed": "./icons/folder-gitlab.svg",
+          "expanded": "./icons/folder-gitlab-open.svg"
+        },
+        "git": {
+          "collapsed": "./icons/folder-git.svg",
+          "expanded": "./icons/folder-git-open.svg"
+        },
+        "global": {
+          "collapsed": "./icons/folder-global.svg",
+          "expanded": "./icons/folder-global-open.svg"
+        },
+        "godot": {
+          "collapsed": "./icons/folder-godot.svg",
+          "expanded": "./icons/folder-godot-open.svg"
+        },
+        "gradle": {
+          "collapsed": "./icons/folder-gradle.svg",
+          "expanded": "./icons/folder-gradle-open.svg"
+        },
+        ".gradle": {
+          "collapsed": "./icons/folder-gradle.svg",
+          "expanded": "./icons/folder-gradle-open.svg"
+        },
+        "graphql": {
+          "collapsed": "./icons/folder-graphql.svg",
+          "expanded": "./icons/folder-graphql-open.svg"
+        },
+        "guard": {
+          "collapsed": "./icons/folder-guard.svg",
+          "expanded": "./icons/folder-guard-open.svg"
+        },
+        "gulp": {
+          "collapsed": "./icons/folder-gulp.svg",
+          "expanded": "./icons/folder-gulp-open.svg"
+        },
+        "helm": {
+          "collapsed": "./icons/folder-helm.svg",
+          "expanded": "./icons/folder-helm-open.svg"
+        },
+        "helper": {
+          "collapsed": "./icons/folder-helper.svg",
+          "expanded": "./icons/folder-helper-open.svg"
+        },
+        "home": {
+          "collapsed": "./icons/folder-home.svg",
+          "expanded": "./icons/folder-home-open.svg"
+        },
+        "main": {
+          "collapsed": "./icons/folder-home.svg",
+          "expanded": "./icons/folder-home-open.svg"
+        },
+        "hook": {
+          "collapsed": "./icons/folder-hook.svg",
+          "expanded": "./icons/folder-hook-open.svg"
+        },
+        "husky": {
+          "collapsed": "./icons/folder-husky.svg",
+          "expanded": "./icons/folder-husky-open.svg"
+        },
+        "i18n": {
+          "collapsed": "./icons/folder-i18n.svg",
+          "expanded": "./icons/folder-i18n-open.svg"
+        },
+        "images": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "import": {
+          "collapsed": "./icons/folder-import.svg",
+          "expanded": "./icons/folder-import-open.svg"
+        },
+        "include": {
+          "collapsed": "./icons/folder-include.svg",
+          "expanded": "./icons/folder-include-open.svg"
+        },
+        "intellij": {
+          "collapsed": "./icons/folder-intellij.svg",
+          "expanded": "./icons/folder-intellij-open.svg"
+        },
+        ".idea": {
+          "collapsed": "./icons/folder-intellij.svg",
+          "expanded": "./icons/folder-intellij-open.svg"
+        },
+        "interface": {
+          "collapsed": "./icons/folder-interface.svg",
+          "expanded": "./icons/folder-interface-open.svg"
+        },
+        "dto": {
+          "collapsed": "./icons/folder-interface.svg",
+          "expanded": "./icons/folder-interface-open.svg"
+        },
+        "ios": {
+          "collapsed": "./icons/folder-ios.svg",
+          "expanded": "./icons/folder-ios-open.svg"
+        },
+        "java": {
+          "collapsed": "./icons/folder-java.svg",
+          "expanded": "./icons/folder-java-open.svg"
+        },
+        "javascript": {
+          "collapsed": "./icons/folder-javascript.svg",
+          "expanded": "./icons/folder-javascript-open.svg"
+        },
+        "jinja": {
+          "collapsed": "./icons/folder-jinja.svg",
+          "expanded": "./icons/folder-jinja-open.svg"
+        },
+        "job": {
+          "collapsed": "./icons/folder-job.svg",
+          "expanded": "./icons/folder-job-open.svg"
+        },
+        "json": {
+          "collapsed": "./icons/folder-json.svg",
+          "expanded": "./icons/folder-json-open.svg"
+        },
+        "jupyter": {
+          "collapsed": "./icons/folder-jupyter.svg",
+          "expanded": "./icons/folder-jupyter-open.svg"
+        },
+        "keys": {
+          "collapsed": "./icons/folder-keys.svg",
+          "expanded": "./icons/folder-keys-open.svg"
+        },
+        "kubernetes": {
+          "collapsed": "./icons/folder-kubernetes.svg",
+          "expanded": "./icons/folder-kubernetes-open.svg"
+        },
+        "kusto": {
+          "collapsed": "./icons/folder-kusto.svg",
+          "expanded": "./icons/folder-kusto-open.svg"
+        },
+        "layout": {
+          "collapsed": "./icons/folder-layout.svg",
+          "expanded": "./icons/folder-layout-open.svg"
+        },
+        "lefthook": {
+          "collapsed": "./icons/folder-lefthook.svg",
+          "expanded": "./icons/folder-lefthook-open.svg"
+        },
+        "less": {
+          "collapsed": "./icons/folder-less.svg",
+          "expanded": "./icons/folder-less-open.svg"
+        },
+        "lib": {
+          "collapsed": "./icons/folder-lib.svg",
+          "expanded": "./icons/folder-lib-open.svg"
+        },
+        "link": {
+          "collapsed": "./icons/folder-link.svg",
+          "expanded": "./icons/folder-link-open.svg"
+        },
+        "linux": {
+          "collapsed": "./icons/folder-linux.svg",
+          "expanded": "./icons/folder-linux-open.svg"
+        },
+        "liquibase": {
+          "collapsed": "./icons/folder-liquibase.svg",
+          "expanded": "./icons/folder-liquibase-open.svg"
+        },
+        "log": {
+          "collapsed": "./icons/folder-log.svg",
+          "expanded": "./icons/folder-log-open.svg"
+        },
+        "lottie": {
+          "collapsed": "./icons/folder-lottie.svg",
+          "expanded": "./icons/folder-lottie-open.svg"
+        },
+        "lua": {
+          "collapsed": "./icons/folder-lua.svg",
+          "expanded": "./icons/folder-lua-open.svg"
+        },
+        "luau": {
+          "collapsed": "./icons/folder-luau.svg",
+          "expanded": "./icons/folder-luau-open.svg"
+        },
+        "macos": {
+          "collapsed": "./icons/folder-macos.svg",
+          "expanded": "./icons/folder-macos-open.svg"
+        },
+        "mail": {
+          "collapsed": "./icons/folder-mail.svg",
+          "expanded": "./icons/folder-mail-open.svg"
+        },
+        "mappings": {
+          "collapsed": "./icons/folder-mappings.svg",
+          "expanded": "./icons/folder-mappings-open.svg"
+        },
+        "markdown": {
+          "collapsed": "./icons/folder-markdown.svg",
+          "expanded": "./icons/folder-markdown-open.svg"
+        },
+        "mercurial": {
+          "collapsed": "./icons/folder-mercurial.svg",
+          "expanded": "./icons/folder-mercurial-open.svg"
+        },
+        "messages": {
+          "collapsed": "./icons/folder-messages.svg",
+          "expanded": "./icons/folder-messages-open.svg"
+        },
+        "meta": {
+          "collapsed": "./icons/folder-meta.svg",
+          "expanded": "./icons/folder-meta-open.svg"
+        },
+        "middleware": {
+          "collapsed": "./icons/folder-middleware.svg",
+          "expanded": "./icons/folder-middleware-open.svg"
+        },
+        "mjml": {
+          "collapsed": "./icons/folder-mjml.svg",
+          "expanded": "./icons/folder-mjml-open.svg"
+        },
+        "mobile": {
+          "collapsed": "./icons/folder-mobile.svg",
+          "expanded": "./icons/folder-mobile-open.svg"
+        },
+        "mock": {
+          "collapsed": "./icons/folder-mock.svg",
+          "expanded": "./icons/folder-mock-open.svg"
+        },
+        "mojo": {
+          "collapsed": "./icons/folder-mojo.svg",
+          "expanded": "./icons/folder-mojo-open.svg"
+        },
+        "moon": {
+          "collapsed": "./icons/folder-moon.svg",
+          "expanded": "./icons/folder-moon-open.svg"
+        },
+        "netlify": {
+          "collapsed": "./icons/folder-netlify.svg",
+          "expanded": "./icons/folder-netlify-open.svg"
+        },
+        "next": {
+          "collapsed": "./icons/folder-next.svg",
+          "expanded": "./icons/folder-next-open.svg"
+        },
+        "ngrx-store": {
+          "collapsed": "./icons/folder-ngrx-store.svg",
+          "expanded": "./icons/folder-ngrx-store-open.svg"
+        },
+        "node": {
+          "collapsed": "./icons/folder-node.svg",
+          "expanded": "./icons/folder-node-open.svg"
+        },
+        "nuxt": {
+          "collapsed": "./icons/folder-nuxt.svg",
+          "expanded": "./icons/folder-nuxt-open.svg"
+        },
+        "obsidian": {
+          "collapsed": "./icons/folder-obsidian.svg",
+          "expanded": "./icons/folder-obsidian-open.svg"
+        },
+        "other": {
+          "collapsed": "./icons/folder-other.svg",
+          "expanded": "./icons/folder-other-open.svg"
+        },
+        "packages": {
+          "collapsed": "./icons/folder-packages.svg",
+          "expanded": "./icons/folder-packages-open.svg"
+        },
+        "pdf": {
+          "collapsed": "./icons/folder-pdf.svg",
+          "expanded": "./icons/folder-pdf-open.svg"
+        },
+        "pdm": {
+          "collapsed": "./icons/folder-pdm.svg",
+          "expanded": "./icons/folder-pdm-open.svg"
+        },
+        "phpmailer": {
+          "collapsed": "./icons/folder-phpmailer.svg",
+          "expanded": "./icons/folder-phpmailer-open.svg"
+        },
+        "php": {
+          "collapsed": "./icons/folder-php.svg",
+          "expanded": "./icons/folder-php-open.svg"
+        },
+        "pipe": {
+          "collapsed": "./icons/folder-pipe.svg",
+          "expanded": "./icons/folder-pipe-open.svg"
+        },
+        "plastic": {
+          "collapsed": "./icons/folder-plastic.svg",
+          "expanded": "./icons/folder-plastic-open.svg"
+        },
+        "plugin": {
+          "collapsed": "./icons/folder-plugin.svg",
+          "expanded": "./icons/folder-plugin-open.svg"
+        },
+        "policy": {
+          "collapsed": "./icons/folder-policy.svg",
+          "expanded": "./icons/folder-policy-open.svg"
+        },
+        "powershell": {
+          "collapsed": "./icons/folder-powershell.svg",
+          "expanded": "./icons/folder-powershell-open.svg"
+        },
+        "prisma": {
+          "collapsed": "./icons/folder-prisma.svg",
+          "expanded": "./icons/folder-prisma-open.svg"
+        },
+        "private": {
+          "collapsed": "./icons/folder-private.svg",
+          "expanded": "./icons/folder-private-open.svg"
+        },
+        "project": {
+          "collapsed": "./icons/folder-project.svg",
+          "expanded": "./icons/folder-project-open.svg"
+        },
+        "proto": {
+          "collapsed": "./icons/folder-proto.svg",
+          "expanded": "./icons/folder-proto-open.svg"
+        },
+        "public": {
+          "collapsed": "./icons/folder-public.svg",
+          "expanded": "./icons/folder-public-open.svg"
+        },
+        "python": {
+          "collapsed": "./icons/folder-python.svg",
+          "expanded": "./icons/folder-python-open.svg"
+        },
+        "pytorch": {
+          "collapsed": "./icons/folder-pytorch.svg",
+          "expanded": "./icons/folder-pytorch-open.svg"
+        },
+        "quasar": {
+          "collapsed": "./icons/folder-quasar.svg",
+          "expanded": "./icons/folder-quasar-open.svg"
+        },
+        "queue": {
+          "collapsed": "./icons/folder-queue.svg",
+          "expanded": "./icons/folder-queue-open.svg"
+        },
+        "react-components": {
+          "collapsed": "./icons/folder-react-components.svg",
+          "expanded": "./icons/folder-react-components-open.svg"
+        },
+        "redux-reducer": {
+          "collapsed": "./icons/folder-redux-reducer.svg",
+          "expanded": "./icons/folder-redux-reducer-open.svg"
+        },
+        "repository": {
+          "collapsed": "./icons/folder-repository.svg",
+          "expanded": "./icons/folder-repository-open.svg"
+        },
+        "resolver": {
+          "collapsed": "./icons/folder-resolver.svg",
+          "expanded": "./icons/folder-resolver-open.svg"
+        },
+        "resource": {
+          "collapsed": "./icons/folder-resource.svg",
+          "expanded": "./icons/folder-resource-open.svg"
+        },
+        "resources": {
+          "collapsed": "./icons/folder-resource.svg",
+          "expanded": "./icons/folder-resource-open.svg"
+        },
+        "static": {
+          "collapsed": "./icons/folder-resource.svg",
+          "expanded": "./icons/folder-resource-open.svg"
+        },
+        "review": {
+          "collapsed": "./icons/folder-review.svg",
+          "expanded": "./icons/folder-review-open.svg"
+        },
+        "robot": {
+          "collapsed": "./icons/folder-robot.svg",
+          "expanded": "./icons/folder-robot-open.svg"
+        },
+        "routes": {
+          "collapsed": "./icons/folder-routes.svg",
+          "expanded": "./icons/folder-routes-open.svg"
+        },
+        "rules": {
+          "collapsed": "./icons/folder-rules.svg",
+          "expanded": "./icons/folder-rules-open.svg"
+        },
+        "rust": {
+          "collapsed": "./icons/folder-rust.svg",
+          "expanded": "./icons/folder-rust-open.svg"
+        },
+        "sandbox": {
+          "collapsed": "./icons/folder-sandbox.svg",
+          "expanded": "./icons/folder-sandbox-open.svg"
+        },
+        "sass": {
+          "collapsed": "./icons/folder-sass.svg",
+          "expanded": "./icons/folder-sass-open.svg"
+        },
+        "scala": {
+          "collapsed": "./icons/folder-scala.svg",
+          "expanded": "./icons/folder-scala-open.svg"
+        },
+        "scons": {
+          "collapsed": "./icons/folder-scons.svg",
+          "expanded": "./icons/folder-scons-open.svg"
+        },
+        "scripts": {
+          "collapsed": "./icons/folder-scripts.svg",
+          "expanded": "./icons/folder-scripts-open.svg"
+        },
+        "secure": {
+          "collapsed": "./icons/folder-secure.svg",
+          "expanded": "./icons/folder-secure-open.svg"
+        },
+        "security": {
+          "collapsed": "./icons/folder-secure.svg",
+          "expanded": "./icons/folder-secure-open.svg"
+        },
+        "seeders": {
+          "collapsed": "./icons/folder-seeders.svg",
+          "expanded": "./icons/folder-seeders-open.svg"
+        },
+        "serverless": {
+          "collapsed": "./icons/folder-serverless.svg",
+          "expanded": "./icons/folder-serverless-open.svg"
+        },
+        "server": {
+          "collapsed": "./icons/folder-server.svg",
+          "expanded": "./icons/folder-server-open.svg"
+        },
+        "services": {
+          "collapsed": "./icons/folder-server.svg",
+          "expanded": "./icons/folder-server-open.svg"
+        },
+        "service": {
+          "collapsed": "./icons/folder-server.svg",
+          "expanded": "./icons/folder-server-open.svg"
+        },
+        "shader": {
+          "collapsed": "./icons/folder-shader.svg",
+          "expanded": "./icons/folder-shader-open.svg"
+        },
+        "shared": {
+          "collapsed": "./icons/folder-shared.svg",
+          "expanded": "./icons/folder-shared-open.svg"
+        },
+        "snapcraft": {
+          "collapsed": "./icons/folder-snapcraft.svg",
+          "expanded": "./icons/folder-snapcraft-open.svg"
+        },
+        "snippet": {
+          "collapsed": "./icons/folder-snippet.svg",
+          "expanded": "./icons/folder-snippet-open.svg"
+        },
+        "src": {
           "collapsed": "./icons/folder-src.svg",
           "expanded": "./icons/folder-src-open.svg"
+        },
+        "src-tauri": {
+          "collapsed": "./icons/folder-src-tauri.svg",
+          "expanded": "./icons/folder-src-tauri-open.svg"
+        },
+        "stack": {
+          "collapsed": "./icons/folder-stack.svg",
+          "expanded": "./icons/folder-stack-open.svg"
+        },
+        "stencil": {
+          "collapsed": "./icons/folder-stencil.svg",
+          "expanded": "./icons/folder-stencil-open.svg"
+        },
+        "store": {
+          "collapsed": "./icons/folder-store.svg",
+          "expanded": "./icons/folder-store-open.svg"
+        },
+        "storybook": {
+          "collapsed": "./icons/folder-storybook.svg",
+          "expanded": "./icons/folder-storybook-open.svg"
+        },
+        "stylus": {
+          "collapsed": "./icons/folder-stylus.svg",
+          "expanded": "./icons/folder-stylus-open.svg"
+        },
+        "sublime": {
+          "collapsed": "./icons/folder-sublime.svg",
+          "expanded": "./icons/folder-sublime-open.svg"
+        },
+        "supabase": {
+          "collapsed": "./icons/folder-supabase.svg",
+          "expanded": "./icons/folder-supabase-open.svg"
+        },
+        "svelte": {
+          "collapsed": "./icons/folder-svelte.svg",
+          "expanded": "./icons/folder-svelte-open.svg"
+        },
+        "svg": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        "syntax": {
+          "collapsed": "./icons/folder-syntax.svg",
+          "expanded": "./icons/folder-syntax-open.svg"
+        },
+        "target": {
+          "collapsed": "./icons/folder-target.svg",
+          "expanded": "./icons/folder-target-open.svg"
+        },
+        "taskfile": {
+          "collapsed": "./icons/folder-taskfile.svg",
+          "expanded": "./icons/folder-taskfile-open.svg"
+        },
+        "tasks": {
+          "collapsed": "./icons/folder-tasks.svg",
+          "expanded": "./icons/folder-tasks-open.svg"
+        },
+        "television": {
+          "collapsed": "./icons/folder-television.svg",
+          "expanded": "./icons/folder-television-open.svg"
+        },
+        "template": {
+          "collapsed": "./icons/folder-template.svg",
+          "expanded": "./icons/folder-template-open.svg"
+        },
+        "templates": {
+          "collapsed": "./icons/folder-template.svg",
+          "expanded": "./icons/folder-template-open.svg"
+        },
+        "temp": {
+          "collapsed": "./icons/folder-temp.svg",
+          "expanded": "./icons/folder-temp-open.svg"
+        },
+        "terraform": {
+          "collapsed": "./icons/folder-terraform.svg",
+          "expanded": "./icons/folder-terraform-open.svg"
+        },
+        "test": {
+          "collapsed": "./icons/folder-test.svg",
+          "expanded": "./icons/folder-test-open.svg"
+        },
+        "theme": {
+          "collapsed": "./icons/folder-theme.svg",
+          "expanded": "./icons/folder-theme-open.svg"
+        },
+        "tools": {
+          "collapsed": "./icons/folder-tools.svg",
+          "expanded": "./icons/folder-tools-open.svg"
+        },
+        "trash": {
+          "collapsed": "./icons/folder-trash.svg",
+          "expanded": "./icons/folder-trash-open.svg"
+        },
+        "trigger": {
+          "collapsed": "./icons/folder-trigger.svg",
+          "expanded": "./icons/folder-trigger-open.svg"
+        },
+        "turborepo": {
+          "collapsed": "./icons/folder-turborepo.svg",
+          "expanded": "./icons/folder-turborepo-open.svg"
+        },
+        "typescript": {
+          "collapsed": "./icons/folder-typescript.svg",
+          "expanded": "./icons/folder-typescript-open.svg"
+        },
+        "ui": {
+          "collapsed": "./icons/folder-ui.svg",
+          "expanded": "./icons/folder-ui-open.svg"
+        },
+        "unity": {
+          "collapsed": "./icons/folder-unity.svg",
+          "expanded": "./icons/folder-unity-open.svg"
+        },
+        "update": {
+          "collapsed": "./icons/folder-update.svg",
+          "expanded": "./icons/folder-update-open.svg"
+        },
+        "upload": {
+          "collapsed": "./icons/folder-upload.svg",
+          "expanded": "./icons/folder-upload-open.svg"
+        },
+        "utils": {
+          "collapsed": "./icons/folder-utils.svg",
+          "expanded": "./icons/folder-utils-open.svg"
+        },
+        "vercel": {
+          "collapsed": "./icons/folder-vercel.svg",
+          "expanded": "./icons/folder-vercel-open.svg"
+        },
+        "verdaccio": {
+          "collapsed": "./icons/folder-verdaccio.svg",
+          "expanded": "./icons/folder-verdaccio-open.svg"
+        },
+        "video": {
+          "collapsed": "./icons/folder-video.svg",
+          "expanded": "./icons/folder-video-open.svg"
+        },
+        "views": {
+          "collapsed": "./icons/folder-views.svg",
+          "expanded": "./icons/folder-views-open.svg"
+        },
+        "vm": {
+          "collapsed": "./icons/folder-vm.svg",
+          "expanded": "./icons/folder-vm-open.svg"
+        },
+        ".vscode": {
+          "collapsed": "./icons/folder-vscode.svg",
+          "expanded": "./icons/folder-vscode-open.svg"
+        },
+        "vscode": {
+          "collapsed": "./icons/folder-vscode.svg",
+          "expanded": "./icons/folder-vscode-open.svg"
+        },
+        "vue-directives": {
+          "collapsed": "./icons/folder-vue-directives.svg",
+          "expanded": "./icons/folder-vue-directives-open.svg"
+        },
+        "vue": {
+          "collapsed": "./icons/folder-vue.svg",
+          "expanded": "./icons/folder-vue-open.svg"
+        },
+        "vuepress": {
+          "collapsed": "./icons/folder-vuepress.svg",
+          "expanded": "./icons/folder-vuepress-open.svg"
+        },
+        "vuex-store": {
+          "collapsed": "./icons/folder-vuex-store.svg",
+          "expanded": "./icons/folder-vuex-store-open.svg"
+        },
+        "wakatime": {
+          "collapsed": "./icons/folder-wakatime.svg",
+          "expanded": "./icons/folder-wakatime-open.svg"
+        },
+        "webpack": {
+          "collapsed": "./icons/folder-webpack.svg",
+          "expanded": "./icons/folder-webpack-open.svg"
+        },
+        "windows": {
+          "collapsed": "./icons/folder-windows.svg",
+          "expanded": "./icons/folder-windows-open.svg"
+        },
+        "wordpress": {
+          "collapsed": "./icons/folder-wordpress.svg",
+          "expanded": "./icons/folder-wordpress-open.svg"
+        },
+        "yarn": {
+          "collapsed": "./icons/folder-yarn.svg",
+          "expanded": "./icons/folder-yarn-open.svg"
+        },
+        "zeabur": {
+          "collapsed": "./icons/folder-zeabur.svg",
+          "expanded": "./icons/folder-zeabur-open.svg"
         }
-      },
-      "directory_names": {
-        "src": "src_folder_icon"
       },
       "file_icons": {
         "js": {
