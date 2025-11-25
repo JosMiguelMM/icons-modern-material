@@ -7,8 +7,8 @@
       "name": "Icons modern material (Dark)",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/folder-default.svg",
-        "expanded": "./icons/folder-default-open.svg"
+        "collapsed": "./icons/folder-default-2.svg",
+        "expanded": "./icons/folder-default-open-2.svg"
       },
       "named_directory_icons": {
         "admin": {
@@ -24,6 +24,10 @@
           "expanded": "./icons/folder-angular-open.svg"
         },
         "animation": {
+          "collapsed": "./icons/folder-animation.svg",
+          "expanded": "./icons/folder-animation-open.svg"
+        },
+        "anim": {
           "collapsed": "./icons/folder-animation.svg",
           "expanded": "./icons/folder-animation-open.svg"
         },
@@ -215,6 +219,10 @@
           "collapsed": "./icons/folder-controller.svg",
           "expanded": "./icons/folder-controller-open.svg"
         },
+        "@core": {
+          "collapsed": "./icons/folder-core.svg",
+          "expanded": "./icons/folder-core-open.svg"
+        },
         "core": {
           "collapsed": "./icons/folder-core.svg",
           "expanded": "./icons/folder-core-open.svg"
@@ -308,6 +316,14 @@
           "expanded": "./icons/folder-environment-open.svg"
         },
         "error": {
+          "collapsed": "./icons/folder-error.svg",
+          "expanded": "./icons/folder-error-open.svg"
+        },
+        "exception": {
+          "collapsed": "./icons/folder-error.svg",
+          "expanded": "./icons/folder-error-open.svg"
+        },
+        "exceptions": {
           "collapsed": "./icons/folder-error.svg",
           "expanded": "./icons/folder-error-open.svg"
         },
@@ -631,6 +647,10 @@
           "collapsed": "./icons/folder-node.svg",
           "expanded": "./icons/folder-node-open.svg"
         },
+        "node_modules": {
+          "collapsed": "./icons/folder-node.svg",
+          "expanded": "./icons/folder-node-open.svg"
+        },
         "nuxt": {
           "collapsed": "./icons/folder-nuxt.svg",
           "expanded": "./icons/folder-nuxt-open.svg"
@@ -672,6 +692,10 @@
           "expanded": "./icons/folder-plastic-open.svg"
         },
         "plugin": {
+          "collapsed": "./icons/folder-plugin.svg",
+          "expanded": "./icons/folder-plugin-open.svg"
+        },
+        "plugins": {
           "collapsed": "./icons/folder-plugin.svg",
           "expanded": "./icons/folder-plugin-open.svg"
         },
@@ -735,6 +759,10 @@
           "collapsed": "./icons/folder-resolver.svg",
           "expanded": "./icons/folder-resolver-open.svg"
         },
+        "assets": {
+          "collapsed": "./icons/folder-resource.svg",
+          "expanded": "./icons/folder-resource-open.svg"
+        },
         "resource": {
           "collapsed": "./icons/folder-resource.svg",
           "expanded": "./icons/folder-resource-open.svg"
@@ -756,6 +784,10 @@
           "expanded": "./icons/folder-robot-open.svg"
         },
         "routes": {
+          "collapsed": "./icons/folder-routes.svg",
+          "expanded": "./icons/folder-routes-open.svg"
+        },
+        "router": {
           "collapsed": "./icons/folder-routes.svg",
           "expanded": "./icons/folder-routes-open.svg"
         },
@@ -798,6 +830,10 @@
         "seeders": {
           "collapsed": "./icons/folder-seeders.svg",
           "expanded": "./icons/folder-seeders-open.svg"
+        },
+        "nginx": {
+          "collapsed": "./icons/folder-server.svg",
+          "expanded": "./icons/folder-server-open.svg"
         },
         "serverless": {
           "collapsed": "./icons/folder-serverless.svg",
@@ -851,11 +887,19 @@
           "collapsed": "./icons/folder-store.svg",
           "expanded": "./icons/folder-store-open.svg"
         },
+        "stores": {
+          "collapsed": "./icons/folder-store.svg",
+          "expanded": "./icons/folder-store-open.svg"
+        },
         "storybook": {
           "collapsed": "./icons/folder-storybook.svg",
           "expanded": "./icons/folder-storybook-open.svg"
         },
         "stylus": {
+          "collapsed": "./icons/folder-stylus.svg",
+          "expanded": "./icons/folder-stylus-open.svg"
+        },
+        "styles": {
           "collapsed": "./icons/folder-stylus.svg",
           "expanded": "./icons/folder-stylus-open.svg"
         },
@@ -912,6 +956,10 @@
           "expanded": "./icons/folder-terraform-open.svg"
         },
         "test": {
+          "collapsed": "./icons/folder-test.svg",
+          "expanded": "./icons/folder-test-open.svg"
+        },
+        "tests": {
           "collapsed": "./icons/folder-test.svg",
           "expanded": "./icons/folder-test-open.svg"
         },
